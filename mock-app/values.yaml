@@ -1,5 +1,5 @@
 appName: mock-app
-message: "Interesting learning curve, keep going !"
+message: "Forked and using my own repo"
 image:
   repository: benmalekarim/mock-app
   tag: v1.0.0
